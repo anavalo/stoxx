@@ -1,0 +1,11 @@
+yahoo-finance
+numpy
+pandas
+bs4
+requests
+pandas_datareader
+wget
+nltk
+sklearn
+keras
+TA-Lib
